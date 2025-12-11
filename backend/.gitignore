@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+.env.*
+/backend/__pycache__/
+*.sqlite3
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/

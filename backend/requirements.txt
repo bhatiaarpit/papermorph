@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pymupdf    # fitz
+pdfplumber
+python-multipart
+python-docx
+pydantic
+gunicorn
+aiofiles
