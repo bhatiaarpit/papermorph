@@ -1,0 +1,12 @@
+{
+  "title": "Test Document",
+  "content": [
+    { "type": "heading", "level": 1, "text": "Introduction" },
+    { "type": "paragraph", "text": "This is an example paragraph extracted from the input PDF. It will be styled." },
+    { "type": "list", "ordered": false, "items": ["First item", "Second item", "Third item"] },
+    { "type": "heading", "level": 2, "text": "Details" },
+    { "type": "paragraph", "text": "More details go here." }
+  ],
+  "style_profile": {},
+  "output": "html"
+}
